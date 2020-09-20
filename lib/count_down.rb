@@ -1,12 +1,6 @@
-10 
-9
-8
-7
-6
-5
-4
-3
-2 
-1
-
-Happy New Year!
+count = 10
+while count >= 1 do
+  puts count
+  count -= 1
+end
+puts "Happy New Year!"
