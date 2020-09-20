@@ -1,6 +1,10 @@
-count = 10 
-while count >= 1 do 
-  puts count
-  count _= 10
-end
-puts "Happy New Year!"
+10 
+9
+8
+7
+6
+5
+4
+3
+2 
+1
